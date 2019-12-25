@@ -1,0 +1,33 @@
+Keuwlsoft Bluetooth Electronics Panel File
+2019-12-25 23:54:40
+2
+
+*.kwl
+set_grid_size(21,11)
+add_text(3,9,xlarge,L,Counter Clockwise,245,240,245,)
+add_text(3,7,xlarge,L,Clockwise,245,240,245,)
+add_text(1,6,xlarge,L,Arm Step,245,240,245,)
+add_text(3,4,xlarge,L,Counter Clockwise,245,240,245,)
+add_text(3,2,xlarge,L,Clockwise,245,240,245,)
+add_text(1,1,xlarge,L,Base Motor Step,245,240,245,)
+add_text(12,9,xlarge,L,Close,245,240,245,)
+add_text(12,7,xlarge,L,Open,245,240,245,)
+add_text(10,6,xlarge,L,Gripper,245,240,245,)
+add_text(12,4,xlarge,L,Counter Clockwise,245,240,245,)
+add_text(12,2,xlarge,L,Clockwise,245,240,245,)
+add_text(10,1,xlarge,L,End Effector Step,245,240,245,)
+add_text(7,0,xlarge,L,Input Pos,245,240,245,)
+add_text(17,5,xlarge,L,Save Point,245,240,245,)
+add_text(17,8,xlarge,L,Play Point,245,240,245,)
+add_button(1,7,28,C,C)
+add_button(1,4,29,B,B)
+add_button(1,2,28,A,A)
+add_button(10,9,30,H,H)
+add_button(10,7,27,G,G)
+add_button(10,4,29,F,F)
+add_button(10,2,28,E,E)
+add_button(1,9,29,D,D)
+add_button(17,9,25,M,m)
+add_button(17,6,26,W,w)
+add_send_box(10,0,8,,,)
+set_panel_notes(,,,)

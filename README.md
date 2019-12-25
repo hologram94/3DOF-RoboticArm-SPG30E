@@ -16,3 +16,8 @@ The stl files are ready to print and assembled. Print settings can be found at h
 6. M3 screws (6 for each motor)
 7. SG90 Servo motor
 8. Any gripper design from thingiverse.
+
+### Single Motor PID Coding
+1. Please refer the coding for the connection of the SPG30E,motor driver and arduino.
+2. Adjust the PPR accordingly to your type of SPG30E-xxxk
+	for example, on cytron webpage, the ppr is 600 for 90degree, so a full 360 is 2400.

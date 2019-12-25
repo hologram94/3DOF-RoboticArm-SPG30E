@@ -21,7 +21,7 @@ void setup() {
   pinMode(MotFwd, OUTPUT); 
   pinMode(MotRev, OUTPUT); 
   Serial.begin(9600); //initialize serial comunication
-   pinMode(encoderPin1, INPUT_PULLUP); 
+  pinMode(encoderPin1, INPUT_PULLUP); 
   pinMode(encoderPin2, INPUT_PULLUP);
   digitalWrite(encoderPin1, HIGH); //turn pullup resistor on
   digitalWrite(encoderPin2, HIGH); //turn pullup resistor on

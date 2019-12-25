@@ -1,6 +1,9 @@
 ###### 3DOF-RoboticArm-SPG30E
 
 
+![Image description](https://github.com/hologram94/3DOF-RoboticArm-SPG30E/blob/master/Assembly%20v17.png)
+
+
 ### STL Files
 The stl files are ready to print and assembled. Print settings can be found at https://www.thingiverse.com/thing:4065790
 

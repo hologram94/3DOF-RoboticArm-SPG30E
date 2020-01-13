@@ -5,7 +5,7 @@
 
 
 ### Description
-This project was designed for a Robotics Class in order to further understand the operation of a robotic arm including DH Parameters, Forward Kinematics and Inverse Kinematics. The robot is a 3 Degree of Freedom robot using SPG30E motor.
+This project was designed for a Robotics Class (BFM4503) in order to further understand the operation of a robotic arm including DH Parameters, Forward Kinematics and Inverse Kinematics. The robot is a 3 Degree of Freedom robot using SPG30E motor.
 There are 3 SPG30E Motor and 1 SG90 Servo.
 
 ### STL Files

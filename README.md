@@ -6,7 +6,7 @@
 
 ### Description
 This project was designed for a Robotics Class in order to further understand the operation of a robotic arm including DH Parameters, Forward Kinematics and Inverse Kinematics. The robot is a 3 Degree of Freedom robot using SPG30E motor.
-
+There are 3 SPG30E Motor and 1 SG90 Servo.
 
 ### STL Files
 The stl files are ready to print and assembled. Print settings can be found at https://www.thingiverse.com/thing:4065790
@@ -15,9 +15,9 @@ The stl files are ready to print and assembled. Print settings can be found at h
 1. Install the Arduino PID library included in the repository
 
 ### Prerequisite (hardware)
-1. Arduino Mega
-2. Motor driver
-3. 12V DC power supply
+1. Arduino Mega (1 unit)
+2. Motor driver (2 unit if one motor driver have 2 channel)
+3. 12V DC power supply (12V 2A is sufficient)
 4. Jumper wires
 5. Printed parts
 6. 3 Pin Male adapter

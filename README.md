@@ -4,6 +4,10 @@
 ![Image description](https://github.com/hologram94/3DOF-RoboticArm-SPG30E/blob/master/Assembly%20v17.png)
 
 
+### Description
+This project was designed for a Robotics Class in order to further understand the operation of a robotic arm including DH Parameters, Forward Kinematics and Inverse Kinematics. The robot is a 3 Degree of Freedom robot using SPG30E motor.
+
+
 ### STL Files
 The stl files are ready to print and assembled. Print settings can be found at https://www.thingiverse.com/thing:4065790
 
@@ -12,13 +16,14 @@ The stl files are ready to print and assembled. Print settings can be found at h
 
 ### Prerequisite (hardware)
 1. Arduino Mega
-2. 12V DC power supply
-3. Jumper wires
-4. Printed parts
-5. 3 Pin Male adapter
-6. M3 screws (6 for each motor)
-7. SG90 Servo motor
-8. Any gripper design from thingiverse.
+2. Motor driver
+3. 12V DC power supply
+4. Jumper wires
+5. Printed parts
+6. 3 Pin Male adapter
+7. M3 screws (6 for each motor)
+8. SG90 Servo motor
+9. Any gripper design from thingiverse. (we used this https://www.thingiverse.com/thing:2302957)
 
 ### Single Motor PID Coding
 1. Please refer the coding for the connection of the SPG30E,motor driver and arduino.
